@@ -1,1 +1,1 @@
-# The regitration form is created using basic HTML and CSS 
+# The registration form is created using basic HTML and CSS 
